@@ -7,5 +7,10 @@ int main()
     cout << "hello there";
 
     cout<<"from dev 1";
+
+    
+    cout<<"subhrajit";
+
+    cout<<"barman ";
     return 0;
 }
